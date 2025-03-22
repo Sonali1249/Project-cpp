@@ -1,2 +1,2 @@
 # Project-cpp
-for project &amp; qestions
+for project &amp; question
